@@ -1,0 +1,91 @@
+body{
+  margin: auto;
+  text-align: center;
+  font-family: 'Big Shoulders Stencil Display', cursive;
+  line-height: 2;
+}
+
+.top-container{
+  margin: 0px;
+  background-color: #bce6eb;
+}
+.head1{
+  font-size: 75px;
+  font-family: 'Sacramento', cursive;
+  color: #34626c;
+}
+.head2{
+  font-weight: normal;
+  color: #34626c;
+  line-height: 0.25;
+}
+h2,h3,a{
+  font-size: 30px;
+  color: #11999E;
+}
+p{
+  font-size: 20px;
+}
+.cloud-1{
+  position: relative;
+  top: 30px; right: 300px;
+}
+
+.cloud-2{
+  position: absolute;
+  top: 150px; right: 300px;
+}
+
+.mountain{
+  position: relative;
+  top: 10px;
+}
+
+.prof{
+  margin: 20px auto auto;
+  height: 200px; width: 200px;
+  border-radius: 100%;
+}
+
+.skill-row1{
+  text-align: left;
+  width: 75%;
+  margin: 100px auto 100px;
+  line-height: 2;
+}
+
+.skill-row2{
+  text-align: right;
+  width: 75%;
+  margin: 100px auto 100px;
+  line-height: 2;
+}
+
+.skill-img1{
+  margin-right: 30px;
+  height: 25%; width: 25%;
+  border-radius: 100%;
+  float: left;
+}
+
+.skill-img2{
+  margin-left: 30px;
+  height: 25%; width: 25%;
+  border-radius: 100%;
+  float: right;
+}
+
+hr{
+  width: 20%;
+  margin: 100px auto 100px;
+  border: dotted #34626c 6px;
+  border-bottom: none;
+}
+
+.middle-container{
+background-color: #dbf6e9;
+}
+
+.bottom-container{
+background-color: #dbf6e9;
+}
